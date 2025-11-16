@@ -6,6 +6,15 @@
     "size_bytes": 4829184,
     "apk_url": "https://lbottt.github.io/smth/public/apps/app1.apk",
     "icon_url": "https://lbottt.github.io/smth/public/icons/app1.png",
-    "description": "A simple test application."
+    "description": "test app"
+  },
+  {
+    "id": "app2",
+    "name": "Minecraft",
+    "version": "2.1",
+    "size_bytes": 2018480,
+    "apk_url": "https://lbottt.github.io/smth/public/apps/app2.apk",
+    "icon_url": "https://lbottt.github.io/smth/public/icons/app2.png",
+    "description": "minecraft?"
   }
 ]
