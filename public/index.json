@@ -4,17 +4,8 @@
     "name": "Test App",
     "version": "1.0",
     "size_bytes": 4829184,
-    "apk_url": "https://<your-username>.github.io/watch-store/apps/app1.apk",
-    "icon_url": "https://<your-username>.github.io/watch-store/icons/app1.png",
+    "apk_url": "https://lbottt.github.io/smth/public/apps/app1.apk",
+    "icon_url": "https://lbottt.github.io/smth/public/icons/app1.png",
     "description": "A simple test application."
-  },
-  {
-    "id": "app2",
-    "name": "Calc Mod",
-    "version": "2.1",
-    "size_bytes": 2018480,
-    "apk_url": "https://<your-username>.github.io/watch-store/apps/calculator.apk",
-    "icon_url": "https://<your-username>.github.io/watch-store/icons/calc.png",
-    "description": "Wear calculator mod."
   }
 ]
